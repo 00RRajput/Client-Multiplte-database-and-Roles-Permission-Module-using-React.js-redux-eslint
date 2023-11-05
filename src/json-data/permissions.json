@@ -1,0 +1,9 @@
+{
+    "role_permission" : {
+        "edit_role": "edit_role",
+        "del_role": "edit_role",
+        "read_role": "edit_role",
+        "create_role": "edit_role"
+    }
+    
+}
